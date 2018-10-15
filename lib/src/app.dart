@@ -10,6 +10,8 @@ class App extends StatefulWidget {
 class AppState extends State<App> {
   int counter = 0;
 
+  fetchImage() {}
+
   Widget build(BuildContext buildContext) {
     return MaterialApp(
       home: Scaffold(
