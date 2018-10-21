@@ -6,8 +6,6 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-
-import 'package:pics/main.dart';
 import "../../pics/lib/src/app.dart";
 
 void main() {
